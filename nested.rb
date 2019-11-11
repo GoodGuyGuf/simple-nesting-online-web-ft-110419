@@ -53,7 +53,7 @@ def dennis_ritchies_language
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => "C"
         }
      }
      programmer_hash[:dennis_ritchie][:languages]
@@ -102,7 +102,7 @@ def changing_alan
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => "C"
+          :languages => ["C"]
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
